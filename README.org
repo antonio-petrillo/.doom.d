@@ -1,0 +1,2 @@
+* Doom Config
+Doom emacs backup config.
